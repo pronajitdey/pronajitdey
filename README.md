@@ -48,3 +48,11 @@ I'm Pronajit Dey, a B.Tech C.S.E. student <img src="https://media.giphy.com/medi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40">
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pronajitdey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronajitdey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
