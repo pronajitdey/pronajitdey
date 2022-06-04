@@ -8,6 +8,9 @@
     <a href="https://www.instagram.com/pronajitdey/">
       <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
     </a>
+    <a href="https://twitter.com/PronajitDey">
+      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=pronajitdey&style=flat-square&color=blue">
