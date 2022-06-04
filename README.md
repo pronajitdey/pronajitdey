@@ -70,4 +70,5 @@ I'm Pronajit Dey, a B.Tech C.S.E. student <img src="https://media.giphy.com/medi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronajitdey&layout=compact&theme=monokai)](https://github.com/pronajitdey)
 
-![snake gif](https://github.com/pronajitdey/pronajitdey/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pronajitdey/pronajitdey/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://github.com/pronajitdey/pronajitdey/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
