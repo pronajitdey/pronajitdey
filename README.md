@@ -64,7 +64,7 @@ I'm Pronajit Dey, a B.Tech C.S.E. student <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronajitdey&show_icons=true&theme=gruvbox)](https://github.com/pronajitdey)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronajitdey&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/pronajitdey)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pronajitdey&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/pronajitdey)
 
