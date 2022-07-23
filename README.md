@@ -30,7 +30,7 @@
 ### :man_technologist: About Me :
 I'm Pronajit Dey, a B.Tech C.S.E. student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m currently a 1st year student at Academy of Technology.
+- :telescope: I’m currently a 2nd year student at Academy of Technology.
 
 - :seedling: Exploring Web Development and DSA in Java.
 
